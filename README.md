@@ -1,3 +1,5 @@
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 # efb2w 
 对于不愿意被微信app所统治,telegram重度使用者等理由  
 ehForwarderBot是个很好的选择.可以帮你做信息聚合  
