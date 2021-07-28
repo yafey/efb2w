@@ -1,5 +1,5 @@
 build:
-   docker:
-      web: Dockerfile
+  docker:
+    web: Dockerfile
 run:
-   web: docker run --name=efb2w -v ~/efb2w/blueset.telegram/:/root/.ehforwarderbot/profiles/default/blueset.telegram/ lzyyauto/efb2w
+  web: /root/.ehforwarderbot/startup.sh

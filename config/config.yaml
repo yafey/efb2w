@@ -1,0 +1,6 @@
+# heroku create 之前修改这个文件，不提交到 github 上，commit 到本地 repository。 
+token: "12345678:1a2b3c4d5e6g7h8i9j"
+#内替换为你在 @BotFather 处获得的 token
+admins:
+- 102938475
+#后面的数字替换为你在 @iloli_bot 处获得的 id
